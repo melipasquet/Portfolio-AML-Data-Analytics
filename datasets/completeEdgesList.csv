@@ -1,0 +1,19 @@
+Source,Target,Label,relationship_type,ownership_percentage
+SB-1001,SB-3002,"Beneficiario Final","Beneficiario Final",100.00
+SB-1003,SB-2006,Accionista,Accionista,40.00
+SB-1005,SB-2003,Accionista,Accionista,25.00
+SB-1005,SB-2029,"Beneficiario Final","Beneficiario Final",30.00
+SB-1018,SB-2010,Director,Director,0.00
+SB-1019,SB-2015,Director,Director,0.00
+SB-1023,SB-2024,"Beneficiario Final","Beneficiario Final",15.00
+SB-1025,SB-3003,"Beneficiario Final","Beneficiario Final",100.00
+SB-1031,SB-2016,Director,Director,0.00
+SB-1031,SB-2026,Director,Director,0.00
+SB-1046,SB-2004,"Beneficiario Final","Beneficiario Final",50.00
+SB-1053,SB-2001,Director,Director,5.00
+SB-1088,SB-2010,"Beneficiario Final","Beneficiario Final",45.00
+SB-1088,SB-3001,"Beneficiario Final","Beneficiario Final",100.00
+SB-2010,SB-2011,Accionista,Accionista,80.00
+SB-3001,SB-2008,Accionista,Accionista,100.00
+SB-3002,SB-2017,Accionista,Accionista,60.00
+SB-3003,SB-2008,"Socio Comercial","Socio Comercial",0.00

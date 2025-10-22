@@ -1,0 +1,96 @@
+Id,Label,Type,country_of_residence,onboarding_date,industry_code_occupation,pep_flag
+SB-1001,"Liam Smith",Individual,USA,2023-01-15,"Ingeniero de Software",NO
+SB-1002,"Olivia Johnson",Individual,Canada,2022-05-20,Doctor,NO
+SB-1003,"Noah Williams",Individual,Australia,2024-07-01,Arquitecto,NO
+SB-1004,"Emma Brown",Individual,Alemania,2023-09-05,"Diseñador Gráfico",NO
+SB-1005,"Lucas Jones",Individual,Brasil,2023-04-18,Abogado,NO
+SB-1006,"Ava Garcia",Individual,Mexico,2024-01-25,Chef,NO
+SB-1007,"Mia Rodriguez",Individual,Argentina,2022-08-14,Profesor,NO
+SB-1008,"Elijah Martinez",Individual,España,2023-12-01,Artista,NO
+SB-1009,"Charlotte Hernandez",Individual,Francia,2023-10-22,Científico,NO
+SB-1010,"James Lopez",Individual,Italia,2022-03-19,Músico,NO
+SB-1011,"Sophia Gonzalez",Individual,Chile,2024-05-16,Periodista,NO
+SB-1012,"Benjamin Wilson",Individual,Sudáfrica,2023-07-29,Fotógrafo,NO
+SB-1013,"Isabella Anderson",Individual,Japón,2024-02-09,Traductor,NO
+SB-1014,"Henry Thomas",Individual,"Corea del Sur",2023-05-21,"Desarrollador de Videojuegos",NO
+SB-1015,"Amelia Taylor",Individual,India,2022-10-17,"Consultor de TI",NO
+SB-1016,"William Moore",Individual,Irlanda,2024-06-23,Veterinario,NO
+SB-1017,"Evelyn Jackson",Individual,Suecia,2022-12-13,Psicólogo,NO
+SB-1018,"Alexander White",Individual,"Países Bajos",2023-01-28,Piloto,NO
+SB-1019,"Abigail Harris",Individual,Bélgica,2023-02-14,Diplomático,SI
+SB-1020,"Michael Martin",Individual,Austria,2022-07-07,"Gerente de Hotel",NO
+SB-1021,"Emily Thompson",Individual,Finlandia,2024-04-02,Investigador,NO
+SB-1022,"Daniel Lee",Individual,Taiwan,2023-10-09,"Ingeniero Eléctrico",NO
+SB-1023,"Harper Clark",Individual,USA,2024-09-01,"Analista Financiero",NO
+SB-1024,"Sebastian Lewis",Individual,Portugal,2023-08-27,"Guía Turístico",NO
+SB-1025,"Elena Petrova",Individual,Valeria,2025-08-15,"Consultor Internacional",SI
+SB-1026,"Madison Walker",Individual,USA,2022-04-22,"Agente Inmobiliario",NO
+SB-1027,"Logan Hall",Individual,"Reino Unido",2024-10-03,Atleta,NO
+SB-1028,"Avery Allen",Individual,Canada,2023-06-15,Nutricionista,NO
+SB-1029,"David Young",Individual,Australia,2022-02-18,Bombero,NO
+SB-1030,"Chloe King",Individual,Irlanda,2023-11-25,"Diseñador de Moda",NO
+SB-1031,"Joseph Wright",Individual,"Reino Unido",2022-01-09,Juez,SI
+SB-1032,"Sofia Scott",Individual,España,2024-08-30,Bailarín,NO
+SB-1033,"Mateo Green",Individual,Mexico,2023-10-12,Agricultor,NO
+SB-1034,"Aria Adams",Individual,USA,2024-01-07,Vlogger,NO
+SB-1035,"Leo Baker",Individual,Canada,2023-03-23,Paramédico,NO
+SB-1036,"Mila Nelson",Individual,Suecia,2022-05-01,"Desarrollador de Software",NO
+SB-1037,"Samuel Carter",Individual,"Nueva Zelanda",2024-02-15,"Biólogo Marino",NO
+SB-1038,"Layla Mitchell",Individual,Italia,2023-12-28,"Curador de Arte",NO
+SB-1039,"Gabriel Perez",Individual,Colombia,2022-10-06,"Productor de Café",NO
+SB-1040,"Zoey Roberts",Individual,Australia,2023-04-25,"Instructor de Surf",NO
+SB-1041,"Isaac Turner",Individual,"Reino Unido",2022-11-19,Librero,NO
+SB-1042,"Penelope Phillips",Individual,USA,2024-03-29,"Terapeuta Ocupacional",NO
+SB-1043,"Ryan Campbell",Individual,Canada,2023-02-02,Guardabosques,NO
+SB-1044,"Lillian Parker",Individual,USA,2024-09-14,"Wedding Planner",NO
+SB-1045,"Wyatt Evans",Individual,Australia,2023-01-19,Mecánico,NO
+SB-1046,"Stella Edwards",Individual,"Reino Unido",2022-07-23,Actriz,NO
+SB-1047,"Owen Collins",Individual,Irlanda,2024-04-18,"Músico Callejero",NO
+SB-1048,"Aurora Stewart",Individual,Finlandia,2023-06-06,"Arquitecto de Interiores",NO
+SB-1049,"Caleb Sanchez",Individual,Mexico,2022-04-14,Arqueólogo,NO
+SB-1050,"Hazel Morris",Individual,Australia,2023-11-11,Ceramista,NO
+SB-1051,"Levi Rogers",Individual,USA,2022-03-03,Camionero,NO
+SB-1052,"Savannah Peterson",Individual,USA,2024-05-27,Influencer,NO
+SB-1053,"Nathan Reed",Individual,"Reino Unido",2023-02-26,Historiador,NO
+SB-1054,"Audrey Cook",Individual,Francia,2024-10-10,Sommelier,NO
+SB-1055,"Theodore Bailey",Individual,Canadá,2023-07-17,Pescador,NO
+SB-1056,"Clara Bell",Individual,USA,2022-06-01,Bibliotecaria,NO
+SB-1057,"Julian Rivera",Individual,"Puerto Rico",2024-07-09,"Artista de Graffiti",NO
+SB-1058,"Skylar Gray",Individual,Canadá,2023-08-11,DJ,NO
+SB-1059,"Leo Kelly",Individual,Irlanda,2022-09-16,"Fabricante de Cerveza",NO
+SB-1060,"Paisley Murphy",Individual,USA,2023-12-21,"Entrenador Personal",NO
+SB-1088,"Viktor Orlov",Individual,Russonia,2023-11-10,"Inversor Privado",SI
+SB-2001,"Innovatech Solutions Ltd.",Corporativo,"Reino Unido",2023-02-10,Tecnología,NO
+SB-2002,"GreenLeaf Organics",Corporativo,"Nueva Zelanda",2022-11-12,Agricultura,NO
+SB-2003,"Quantum Logistics",Corporativo,Singapur,2023-06-30,Transporte,NO
+SB-2004,"Starlight Studios",Corporativo,USA,2024-03-11,Entretenimiento,NO
+SB-2005,"Oceanic Exploration Inc.",Corporativo,Noruega,2023-08-08,Energía,NO
+SB-2006,"Pinnacle Construction",Corporativo,"Emiratos Árabes Unidos",2022-09-03,Construcción,NO
+SB-2007,"Silverstone Mining",Corporativo,Canada,2023-11-04,Minería,SI
+SB-2008,"Apex Global Trading S.A.",Corporativo,"Kaiman Islands",2024-03-22,"Import/Export Commodities",NO
+SB-2009,"Azure Pharmaceuticals",Corporativo,Suiza,2023-03-05,Farmacéutica,NO
+SB-2010,"Crimson Holdings",Corporativo,"Hong Kong",2024-08-19,"Holding de Inversiones",NO
+SB-2011,"Vertex Automotive",Corporativo,Alemania,2023-09-18,Automotriz,NO
+SB-2012,"Zenith Aerospace",Corporativo,Francia,2022-06-25,Aeroespacial,NO
+SB-2013,"Evergreen Imports",Corporativo,Vietnam,2023-04-10,"Comercio Minorista",NO
+SB-2014,"Dynamic Digital",Corporativo,Israel,2023-01-05,"Marketing Digital",NO
+SB-2015,"Global Aid Foundation",Corporativo,España,2022-01-30,"Organización Sin Fines de Lucro",NO
+SB-2016,"Redwood Capital",Corporativo,USA,2024-07-20,"Capital Privado",NO
+SB-2017,"Blue Ocean Shipping",Corporativo,Panamá,2023-05-14,"Logística Marítima",NO
+SB-2018,"Sunstone Energy",Corporativo,"Arabia Saudita",2022-08-04,"Petróleo y Gas",SI
+SB-2019,"Ironclad Security",Corporativo,Israel,2023-09-09,"Seguridad Privada",NO
+SB-2020,"Gastronomique Group",Corporativo,Francia,2023-07-03,"Restaurantes de Lujo",NO
+SB-2021,"Celestial Gems",Corporativo,Bélgica,2024-06-11,"Comercio de Diamantes",SI
+SB-2022,"Andromeda Biotech",Corporativo,"Corea del Sur",2023-08-17,Biotecnología,NO
+SB-2023,"Helios Renewables",Corporativo,Alemania,2022-09-28,"Energías Renovables",NO
+SB-2024,"Meridian Bank",Corporativo,Suiza,2023-05-08,"Banca Privada",NO
+SB-2025,"Nightingale Health",Corporativo,Canadá,2023-10-01,"Cuidado de la Salud",NO
+SB-2026,"Vanguard Defense",Corporativo,USA,2024-08-05,"Contratista de Defensa",SI
+SB-2027,"Elysian Resorts",Corporativo,Maldivas,2023-09-22,"Hotelería de Lujo",NO
+SB-2028,"Pegasus Airlines",Corporativo,Turquía,2022-12-08,Aerolínea,NO
+SB-2029,"Valhalla Crypto Exchange",Corporativo,Estonia,2024-01-22,Criptomonedas,SI
+SB-2030,"Magnolia Real Estate",Corporativo,USA,2023-04-04,"Bienes Raíces",NO
+SB-2031,"Titan Manufacturing",Corporativo,China,2024-06-19,"Manufactura Pesada",NO
+SB-3001,"Omega Holdings Ltd","Entidad no cliente",NULL,NULL,Desconocido,NO
+SB-3002,"Silver Line Investments","Entidad no cliente",NULL,NULL,Desconocido,NO
+SB-3003,"Petrova Consulting FZ","Entidad no cliente",NULL,NULL,Desconocido,NO
